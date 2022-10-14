@@ -1,2 +1,2 @@
-# amongus
+# Sus
 Among us fansite
