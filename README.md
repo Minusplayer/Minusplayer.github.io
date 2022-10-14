@@ -1,2 +1,0 @@
-# Sus
-Among us fansite
